@@ -7,7 +7,7 @@
 #   A man, a plan, a canal, Panama
 #   Go hang a salami, I'm a lasagna hog
 
-
+#change time
 # take in user input
 example = input('Give me a palindrome: ')
 print(example)
